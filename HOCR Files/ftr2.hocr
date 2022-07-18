@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract v5.1.0.20220510' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "ftr2.jpg"; bbox 0 0 197 255; ppageno 0; scan_res 70 70'>
+   <div class='ocr_separator' id='block_1_1' title="bbox 150 39 151 72"></div>
+   <div class='ocr_separator' id='block_1_2' title="bbox 134 91 135 115"></div>
+   <div class='ocr_separator' id='block_1_3' title="bbox 159 93 160 112"></div>
+   <div class='ocr_separator' id='block_1_4' title="bbox 30 106 186 107"></div>
+   <div class='ocr_separator' id='block_1_5' title="bbox 33 110 186 111"></div>
+   <div class='ocr_separator' id='block_1_6' title="bbox 62 113 186 117"></div>
+   <div class='ocr_separator' id='block_1_7' title="bbox 155 113 156 156"></div>
+   <div class='ocr_photo' id='block_1_8' title="bbox 0 0 195 191"></div>
+  </div>
+ </body>
+</html>

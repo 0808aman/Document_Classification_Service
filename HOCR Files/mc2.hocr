@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract v5.1.0.20220510' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "mc2.jpg"; bbox 0 0 400 303; ppageno 0; scan_res 70 70'>
+   <div class='ocr_separator' id='block_1_1' title="bbox 20 16 384 18"></div>
+   <div class='ocr_separator' id='block_1_2' title="bbox 20 16 384 19"></div>
+   <div class='ocr_separator' id='block_1_3' title="bbox 383 18 384 287"></div>
+   <div class='ocr_separator' id='block_1_4' title="bbox 19 285 384 288"></div>
+   <div class='ocr_photo' id='block_1_5' title="bbox 1 0 390 294"></div>
+  </div>
+ </body>
+</html>

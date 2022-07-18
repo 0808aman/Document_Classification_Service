@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title></title>
+  <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+  <meta name='ocr-system' content='tesseract v5.1.0.20220510' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word ocrp_wconf'/>
+ </head>
+ <body>
+  <div class='ocr_page' id='page_1' title='image "mc1.jpg"; bbox 0 0 324 400; ppageno 0; scan_res 70 70'>
+   <div class='ocr_photo' id='block_1_1' title="bbox 0 0 23 10"></div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 53 18 272 26">
+    <p class='ocr_par' id='par_1_1' lang='eng' title="bbox 53 18 272 26">
+     <span class='ocr_line' id='line_1_1' title="bbox 53 18 272 26; baseline -0.005 0; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_1' title='bbox 53 7 73 35; x_wconf 53'>ED</span>
+      <span class='ocrx_word' id='word_1_2' title='bbox 77 7 91 35; x_wconf 20'>C1</span>
+      <span class='ocrx_word' id='word_1_3' title='bbox 100 7 115 35; x_wconf 22'>CHE</span>
+      <span class='ocrx_word' id='word_1_4' title='bbox 121 7 138 35; x_wconf 16'>EHED</span>
+      <span class='ocrx_word' id='word_1_5' title='bbox 144 7 157 35; x_wconf 27'>OI</span>
+      <span class='ocrx_word' id='word_1_6' title='bbox 165 7 182 35; x_wconf 37'>CHD</span>
+      <span class='ocrx_word' id='word_1_7' title='bbox 189 18 206 25; x_wconf 33'>EY</span>
+      <span class='ocrx_word' id='word_1_8' title='bbox 210 7 224 35; x_wconf 64'>CH</span>
+      <span class='ocrx_word' id='word_1_9' title='bbox 233 18 245 25; x_wconf 45'>OH</span>
+      <span class='ocrx_word' id='word_1_10' title='bbox 254 7 272 35; x_wconf 70'>CH</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_separator' id='block_1_3' title="bbox 32 25 293 29"></div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 19 19 31 318">
+    <p class='ocr_par' id='par_1_2' lang='eng' title="bbox 19 19 31 318">
+     <span class='ocr_line' id='line_1_2' title="bbox 19 19 31 318; textangle 90; x_size 16; x_descenders 4; x_ascenders 4">
+      <span class='ocrx_word' id='word_1_11' title='bbox 14 298 38 322; x_wconf 46'>EES</span>
+      <span class='ocrx_word' id='word_1_12' title='bbox 24 262 31 281; x_wconf 39'>EC</span>
+      <span class='ocrx_word' id='word_1_13' title='bbox 14 218 38 250; x_wconf 30'>CADE</span>
+      <span class='ocrx_word' id='word_1_14' title='bbox 14 170 38 206; x_wconf 32'>ADHD</span>
+      <span class='ocrx_word' id='word_1_15' title='bbox 14 130 38 164; x_wconf 19'>NDS</span>
+      <span class='ocrx_word' id='word_1_16' title='bbox 14 110 38 124; x_wconf 67'>TD</span>
+      <span class='ocrx_word' id='word_1_17' title='bbox 14 68 38 101; x_wconf 39'>EDAD</span>
+      <span class='ocrx_word' id='word_1_18' title='bbox 24 19 31 25; x_wconf 17'>TOTES</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_separator' id='block_1_5' title="bbox 31 27 34 380"></div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 39 34 271 148">
+    <p class='ocr_par' id='par_1_3' lang='eng' title="bbox 39 34 271 148">
+     <span class='ocr_line' id='line_1_3' title="bbox 91 34 229 54; baseline -0.014 -3; x_size 21; x_descenders 4; x_ascenders 6">
+      <span class='ocrx_word' id='word_1_19' title='bbox 91 34 165 54; x_wconf 45'>Marriage</span>
+      <span class='ocrx_word' id='word_1_20' title='bbox 170 34 229 51; x_wconf 25'>Lirense</span>
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 39 78 189 91; baseline -0.007 -3; x_size 24.166666; x_descenders 5.5; x_ascenders 6.8333335">
+      <span class='ocrx_word' id='word_1_21' title='bbox 39 65 57 97; x_wconf 77'>He</span>
+      <span class='ocrx_word' id='word_1_22' title='bbox 58 78 115 90; x_wconf 43'>atop</span>
+      <span class='ocrx_word' id='word_1_23' title='bbox 99 65 118 97; x_wconf 48'>Chin,</span>
+      <span class='ocrx_word' id='word_1_24' title='bbox 121 78 142 87; x_wconf 15'>Sill</span>
+      <span class='ocrx_word' id='word_1_25' title='bbox 147 78 189 91; x_wconf 59'>Canty.</span>
+     </span>
+     <span class='ocr_line' id='line_1_5' title="bbox 75 95 271 108; baseline 0 -1; x_size 12.946428; x_descenders 2.9464285; x_ascenders 3.6607146">
+      <span class='ocrx_word' id='word_1_26' title='bbox 75 95 109 108; x_wconf 16'>Touny</span>
+      <span class='ocrx_word' id='word_1_27' title='bbox 118 96 151 108; x_wconf 52'>Person</span>
+      <span class='ocrx_word' id='word_1_28' title='bbox 155 95 193 108; x_wconf 36'>Lagaliy</span>
+      <span class='ocrx_word' id='word_1_29' title='bbox 201 95 271 108; x_wconf 37'>huthoriged</span>
+      <span class='ocrx_word' id='word_1_30' title='bbox 263 91 275 115; x_wconf 81'>ta</span>
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 100 99 197 120; baseline 0 -7; x_size 12.946428; x_descenders 2.9464285; x_ascenders 3.6607146">
+      <span class='ocrx_word' id='word_1_31' title='bbox 100 99 113 120; x_wconf 0'>ot</span>
+      <span class='ocrx_word' id='word_1_32' title='bbox 167 102 197 113; x_wconf 51'>GUL</span>
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 59 105 271 130; baseline 0 -6; x_size 25; x_descenders 5; x_ascenders 8">
+      <span class='ocrx_word' id='word_1_33' title='bbox 59 112 112 130; x_wconf 14'>Hlomnign</span>
+      <span class='ocrx_word' id='word_1_34' title='bbox 116 113 186 130; x_wconf 12'>Marvitgesin</span>
+      <span class='ocrx_word' id='word_1_35' title='bbox 189 101 204 134; x_wconf 84'>the</span>
+      <span class='ocrx_word' id='word_1_36' title='bbox 214 101 245 134; x_wconf 0'>atop</span>
+      <span class='ocrx_word' id='word_1_37' title='bbox 247 105 271 129; x_wconf 41'>Mie:</span>
+     </span>
+     <span class='ocr_line' id='line_1_8' title="bbox 60 134 143 148; baseline 0 -5; x_size 24.166666; x_descenders 5.5; x_ascenders 6.8333335">
+      <span class='ocrx_word' id='word_1_38' title='bbox 60 134 85 144; x_wconf 41'>Soha</span>
+      <span class='ocrx_word' id='word_1_39' title='bbox 90 136 143 148; x_wconf 10'>unteniyr</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_separator' id='block_1_7' title="bbox 142 57 183 60"></div>
+   <div class='ocr_carea' id='block_1_8' title="bbox 137 155 186 165">
+    <p class='ocr_par' id='par_1_4' lang='eng' title="bbox 137 155 186 165">
+     <span class='ocr_caption' id='line_1_9' title="bbox 137 155 186 165; baseline 0.041 -2; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_40' title='bbox 137 155 155 163; x_wconf 66'>Ono</span>
+      <span class='ocrx_word' id='word_1_41' title='bbox 159 155 186 165; x_wconf 15'>Potty</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_separator' id='block_1_9' title="bbox 291 26 295 379"></div>
+   <div class='ocr_carea' id='block_1_10' title="bbox 294 67 302 380">
+    <p class='ocr_par' id='par_1_5' lang='eng' title="bbox 294 67 302 380">
+     <span class='ocr_line' id='line_1_10' title="bbox 294 67 302 380; textangle 90; x_size 20; x_descenders 5; x_ascenders 5">
+      <span class='ocrx_word' id='word_1_42' title='bbox 294 67 302 380; x_wconf 23'>[LETITIA</span>
+      <span class='ocrx_word' id='word_1_43' title='bbox 282 234 310 266; x_wconf 49'>TID</span>
+      <span class='ocrx_word' id='word_1_44' title='bbox 282 211 310 228; x_wconf 47'>TT</span>
+      <span class='ocrx_word' id='word_1_45' title='bbox 282 167 310 207; x_wconf 44'>TTT</span>
+      <span class='ocrx_word' id='word_1_46' title='bbox 282 146 310 163; x_wconf 49'>ET</span>
+      <span class='ocrx_word' id='word_1_47' title='bbox 282 106 310 142; x_wconf 23'>ETT</span>
+      <span class='ocrx_word' id='word_1_48' title='bbox 282 64 310 102; x_wconf 10'>TTD</span>
+     </span>
+    </p>
+   </div>
+   <div class='ocr_separator' id='block_1_11' title="bbox 32 375 293 381"></div>
+   <div class='ocr_photo' id='block_1_12' title="bbox 34 168 293 392"></div>
+  </div>
+ </body>
+</html>
